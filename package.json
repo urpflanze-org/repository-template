@@ -1,13 +1,11 @@
 {
 	"name": "@urpflanze/[name]",
 	"version": "0.0.1",
-	"description": "Urpfanze package",
+	"description": "Urpflanze package",
 	"license": "GPL-3.0-or-later",
 	"docs": "",
 	"keywords": [
 		"urpflanze",
-		"creativecoding",
-		"mathart",
 		"typescript"
 	],
 	"author": "",
